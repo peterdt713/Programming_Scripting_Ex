@@ -15,3 +15,8 @@ Collection of course work and exercises completed.
 3) Collatz.py
   Contains home exercise completed during week 2. Refer to the following: https://en.wikipedia.org/wiki/Collatz_conjecture
   This calculates based on user input.
+
+4) Evfibno.py
+  Sums Even Fibonacci numbers when given an end point number. Preset to 4000000 if there is no number selected.
+  Refer to: https://projecteuler.net/problem=2
+  
