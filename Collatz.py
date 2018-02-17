@@ -7,11 +7,11 @@ x = i
 
 while i > 1:
     if i % 2 == 0:
-        i = i / 2 
+        i = int(i / 2) 
         print(i)
     else:
-        i = (3 * i) + 1
-        print(i) 
+        i = int((3 * i) + 1)
+        print(i)
 
 
 print("Number at start: ",x,"Number at end: ",i) 
