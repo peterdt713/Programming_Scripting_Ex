@@ -8,7 +8,25 @@
 
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
-from fractions import gcd
-def lcm(a,b):
-    "Calculate the lowest common multiple of two integers a and b"
-    return a*b//gcd(a,b)
+# Setting Range
+
+Max = 20
+Min = 1
+
+End = Max + 1
+
+# Is the number divisible by all numbers in range?
+def ChkDivisible(x):
+    for i in range(Min,End):
+        if x % i != 0:
+            return False
+    return True
+
+# Start at 1, run ChkDivisible until True
+x = Max 
+while True:
+    if ChkDivisible(x):
+        break
+    x = x + Max
+
+print(x)
