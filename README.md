@@ -7,6 +7,9 @@ Collection of course work and exercises completed.
 
 # Contents Description
   
+1) fib.py
+  Contains home exercise completed during week 1. This is later combined with week 2. This calculates the fibonacci number of a given integer. 
+
 2) fibw2.py
   Contains home exercise completed during week 1 and 2 combined. 
     1. This calculates the fibonacci number of a given integer. 
