@@ -15,6 +15,16 @@ Min = 1
 
 End = Max + 1
 
+print("This program will define the smallest multiple of every number between a range. This is pre-set to 1 to 20.")
+
+# Q: User set a range?
+
+if input("Would you like to change the range? (Y/N): ") == "Y":
+    Max = int(input("Max: "))
+    Min = int(input("Min: "))
+    End = Max + 1
+
+
 # Is the number divisible by all numbers in range?
 def ChkDivisible(x):
     for i in range(Min,End):
