@@ -27,3 +27,6 @@ Collection of course work and exercises completed.
   Calculates the smallest multiple of all numbers in a given range. Preset to 1 - 20 and will allow the user to select a different range.
   Refer to: https://projecteuler.net/problem=2
   
+6) Iris_Data.py
+  Using the Iris Data set, this prints the petal length, petal width, sepal length and sepal width. These values are aligned by decimal places and have a single space between the columns.
+  Refer to: Topic 5 of course.
