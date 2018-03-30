@@ -23,3 +23,7 @@ Collection of course work and exercises completed.
   Sums Even Fibonacci numbers when given an end point number. Preset to 4000000 if there is no number selected.
   Refer to: https://projecteuler.net/problem=2
   
+5) Smlmult.py
+  Calculates the smallest multiple of all numbers in a given range. Preset to 1 - 20 and will allow the user to select a different range.
+  Refer to: https://projecteuler.net/problem=2
+  
