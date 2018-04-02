@@ -40,4 +40,4 @@ Collection of course work and exercises completed.
 6) functions.py
 
   Contains a function, factorial(i) , that will return the factorial of am interger. This first displays the factorial of 5, 7 and 10, while also showing raw tests. Subsequently there is a user input option. 
-  Refer to: Topic 5 of course.
+  Refer to: Topic 6 of course.
