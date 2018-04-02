@@ -32,6 +32,7 @@ h = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10
 print("Test for 10: ", h)
 print("The factoral of 10 is: ", factorial(10))
 
+# Request User input
 if input("Would you like to input a new number? (Y/N): ") == "Y":
     z = int(input("Please enter an integer: "))
     print("The factoral of ", z, " is: ", factorial(z))
